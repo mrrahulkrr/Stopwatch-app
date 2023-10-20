@@ -1,4 +1,4 @@
-In this project, let's build a **Stopwatch** by applying the concepts we have learned till now.
+In this project, I have build a **Stopwatch** by applying the concepts I have learned now.
 
 ### Refer to the image below:
 
@@ -18,22 +18,13 @@ In this project, let's build a **Stopwatch** by applying the concepts we have le
 
 </details>
 
-### Set Up Instructions
+### Completion 
 
 <details>
-<summary>Click to view</summary>
-
-- Download dependencies by running `npm install`
-- Start up the app using `npm start`
-</details>
-
-### Completion Instructions
-
-<details>
-<summary>Functionality to be added</summary>
+<summary>Functionality added</summary>
 <br/>
 
-The app must have the following functionalities
+The app have these following functionalities
 
 - When the **Start** button is clicked, then the Stopwatch should start running
 - When the **Stop** button is clicked, then the Stopwatch should stop running
@@ -41,10 +32,10 @@ The app must have the following functionalities
 </details>
 
 <details>
-<summary>Implementation Files</summary>
+<summary>Implemented Files</summary>
 <br/>
 
-Use these files to complete the implementation:
+Refer these files to see the implementation:
 
 - `src/components/Stopwatch/index.js`
 - `src/components/Stopwatch/index.css`
@@ -102,9 +93,3 @@ Use these files to complete the implementation:
 
 </details>
 
-> ### _Things to Keep in Mind_
->
-> - All components you implement should go in the `src/components` directory.
-> - Don't change the component folder names as those are the files being imported into the tests.
-> - **Do not remove the pre-filled code**
-> - Want to quickly review some of the concepts you’ve been learning? Take a look at the Cheat Sheets.
